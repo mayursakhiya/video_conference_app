@@ -5,8 +5,8 @@ Video conferencing app
 ## Art
 
 <tr>
-    <td><img align="left" src="https://github.com/mayursakhiya/video_conference_app/blob/main/flutter_01.png?raw=true" width="200" height="400"/></td>
-    <td><img src="https://github.com/mayursakhiya/video_conference_app/blob/main/flutter_02.png?raw=true" width="200" height="400"/></td> 
+    <td><img align="left" src="https://github.com/mayursakhiya/video_conference_app/blob/master/flutter_01.png" width="200" height="400"/></td>
+    <td><img src="https://github.com/mayursakhiya/video_conference_app/blob/master/flutter_02.png" width="200" height="400"/></td> 
 </tr>
 
 ## Getting Started

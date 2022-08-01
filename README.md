@@ -21,7 +21,7 @@ cd folder/to/clone-into/
 ```
 
 ```
-git clone https://github.com/RegNex/Group-Hut-App.git
+git clone https://github.com/mayursakhiya/video_conference_app.git
 ```
 
 Then
